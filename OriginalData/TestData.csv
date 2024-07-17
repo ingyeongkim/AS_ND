@@ -1,0 +1,4 @@
+---,Bool,Integer,Float,Name,String,Text,Vector,RaceName,Textur2D,Actor
+NewRow,"True","1","3.153200","easgasdf","feafdgs","NSLOCTEXT(""[7839FFAAE577C9A1E5F04B73632247CD]"", ""39072FBA4010D3EA50E4FDB2327E33AA"", ""1.0"")","(X=1.000000,Y=2.000000,Z=3.000000)","Human","/Script/Engine.Texture2D'/Engine/EditorResources/Ai_Spawnpoint.Ai_Spawnpoint'","/Script/Engine.BlueprintGeneratedClass'/Game/01_Blueprint/02_Actor/MonsterCube.MonsterCube_C'"
+NewRow_0,"False","0","0.000000","None","","","(X=0.000000,Y=0.000000,Z=0.000000)","None","None","None"
+NewRow_1,"False","0","0.000000","None","","","(X=0.000000,Y=0.000000,Z=0.000000)","None","None","None"
